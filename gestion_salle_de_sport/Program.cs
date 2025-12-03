@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.IO;
 using MySql.Data.MySqlClient;
 
@@ -88,12 +88,4 @@ namespace SalleSportApp
                 }
             }
         }
-    }
-<<<<<<< HEAD
-=======
-        static void Main(Strings[] args)
-    {
-        
-    }
->>>>>>> 94eb0e1f2fa94521d08ba40aa402e8d251664209
-}
+   }
