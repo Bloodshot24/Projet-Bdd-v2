@@ -1,5 +1,6 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "kKha4Skt81M=",
   "success": true,
   "projectFilePath": "/Users/bas/Documents/Bastien/ESILV/A2/BDD/Projet bdd/Projet-Bdd-v2/gestion_salle_de_sport/gestion_salle_de_sport.csproj",
@@ -18,5 +19,11 @@
     "/Users/bas/.nuget/packages/system.windows.extensions/8.0.0/system.windows.extensions.8.0.0.nupkg.sha512",
     "/Users/bas/.nuget/packages/zstdsharp.port/0.8.6/zstdsharp.port.0.8.6.nupkg.sha512"
   ],
+=======
+  "dgSpecHash": "ouWpO9NG3hA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pefer\\OneDrive - DVHE\\Esilv\\A2\\CBD\\Projet Final\\Projet-Bdd-v2\\gestion_salle_de_sport\\gestion_salle_de_sport.csproj",
+  "expectedPackageFiles": [],
+>>>>>>> 94eb0e1f2fa94521d08ba40aa402e8d251664209
   "logs": []
 }
