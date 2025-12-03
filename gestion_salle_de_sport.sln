@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gestion_salle_de_sport", "gestion_salle_de_sport\gestion_salle_de_sport.csproj", "{D942AC34-C2F0-4740-B074-C1B4CD24FDED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D942AC34-C2F0-4740-B074-C1B4CD24FDED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D942AC34-C2F0-4740-B074-C1B4CD24FDED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D942AC34-C2F0-4740-B074-C1B4CD24FDED}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{D942AC34-C2F0-4740-B074-C1B4CD24FDED}.Debug|x64.Build.0 = Debug|Any CPU
+		{D942AC34-C2F0-4740-B074-C1B4CD24FDED}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D942AC34-C2F0-4740-B074-C1B4CD24FDED}.Debug|x86.Build.0 = Debug|Any CPU
+		{D942AC34-C2F0-4740-B074-C1B4CD24FDED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D942AC34-C2F0-4740-B074-C1B4CD24FDED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D942AC34-C2F0-4740-B074-C1B4CD24FDED}.Release|x64.ActiveCfg = Release|Any CPU
+		{D942AC34-C2F0-4740-B074-C1B4CD24FDED}.Release|x64.Build.0 = Release|Any CPU
+		{D942AC34-C2F0-4740-B074-C1B4CD24FDED}.Release|x86.ActiveCfg = Release|Any CPU
+		{D942AC34-C2F0-4740-B074-C1B4CD24FDED}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
