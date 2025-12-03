@@ -1,4 +1,13 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-Console.WriteLine("test");
-Console.WriteLine("Bite");
+﻿using System;
+using Microsoft.VisualBasic;
+public class Program{
+    public class Member
+    {
+        private int ID;
+        
+    }
+        static void Main(Strings[] args)
+    {
+        
+    }
+}
