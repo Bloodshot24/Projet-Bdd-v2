@@ -1,8 +1,29 @@
 {
   "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "kKha4Skt81M=",
+  "success": true,
+  "projectFilePath": "/Users/bas/Documents/Bastien/ESILV/A2/BDD/Projet bdd/Projet-Bdd-v2/gestion_salle_de_sport/gestion_salle_de_sport.csproj",
+  "expectedPackageFiles": [
+    "/Users/bas/.nuget/packages/bouncycastle.cryptography/2.6.2/bouncycastle.cryptography.2.6.2.nupkg.sha512",
+    "/Users/bas/.nuget/packages/google.protobuf/3.32.0/google.protobuf.3.32.0.nupkg.sha512",
+    "/Users/bas/.nuget/packages/k4os.compression.lz4/1.3.8/k4os.compression.lz4.1.3.8.nupkg.sha512",
+    "/Users/bas/.nuget/packages/k4os.compression.lz4.streams/1.3.8/k4os.compression.lz4.streams.1.3.8.nupkg.sha512",
+    "/Users/bas/.nuget/packages/k4os.hash.xxhash/1.0.8/k4os.hash.xxhash.1.0.8.nupkg.sha512",
+    "/Users/bas/.nuget/packages/mysql.data/9.5.0/mysql.data.9.5.0.nupkg.sha512",
+    "/Users/bas/.nuget/packages/system.configuration.configurationmanager/8.0.0/system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "/Users/bas/.nuget/packages/system.diagnostics.eventlog/8.0.0/system.diagnostics.eventlog.8.0.0.nupkg.sha512",
+    "/Users/bas/.nuget/packages/system.io.pipelines/6.0.3/system.io.pipelines.6.0.3.nupkg.sha512",
+    "/Users/bas/.nuget/packages/system.security.cryptography.protecteddata/8.0.0/system.security.cryptography.protecteddata.8.0.0.nupkg.sha512",
+    "/Users/bas/.nuget/packages/system.security.permissions/8.0.0/system.security.permissions.8.0.0.nupkg.sha512",
+    "/Users/bas/.nuget/packages/system.windows.extensions/8.0.0/system.windows.extensions.8.0.0.nupkg.sha512",
+    "/Users/bas/.nuget/packages/zstdsharp.port/0.8.6/zstdsharp.port.0.8.6.nupkg.sha512"
+  ],
+=======
   "dgSpecHash": "ouWpO9NG3hA=",
   "success": true,
   "projectFilePath": "C:\\Users\\pefer\\OneDrive - DVHE\\Esilv\\A2\\CBD\\Projet Final\\Projet-Bdd-v2\\gestion_salle_de_sport\\gestion_salle_de_sport.csproj",
   "expectedPackageFiles": [],
+>>>>>>> 94eb0e1f2fa94521d08ba40aa402e8d251664209
   "logs": []
 }
